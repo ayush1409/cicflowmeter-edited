@@ -36,5 +36,3 @@ Sniff packets real-time from interface to flow csv: (**need root permission**)
 ```
 cicflowmeter -i eth0 -c flows.csv
 ```
-
-### Reference: https://www.unb.ca/cic/research/applications.html#CICFlowMeter
